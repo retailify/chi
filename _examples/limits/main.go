@@ -24,8 +24,8 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/pressly/chi"
-	"github.com/pressly/chi/middleware"
+	"github.com/retailify/chi"
+	"github.com/retailify/chi/middleware"
 )
 
 func main() {
