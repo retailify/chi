@@ -5,7 +5,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/pressly/chi"
+	"github.com/retailify/chi"
 )
 
 func main() {
