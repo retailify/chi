@@ -175,7 +175,7 @@ func channelIntoSlice(w http.ResponseWriter, r *http.Request, from interface{}) 
 			to = append(to, v)
 		}
 	}
-	panic("unreachable")
+	// panic("unreachable")
 }
 
 // contextKey is a value for use with context.WithValue. It's used as
