@@ -8,7 +8,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/pressly/chi"
+	"github.com/retailify/chi"
 )
 
 func BuildDoc(r chi.Routes) (Doc, error) {
