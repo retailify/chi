@@ -46,10 +46,10 @@ import (
 	"math/rand"
 	"net/http"
 
-	"github.com/pressly/chi"
-	"github.com/pressly/chi/docgen"
-	"github.com/pressly/chi/middleware"
-	"github.com/pressly/chi/render"
+	"github.com/retailify/chi"
+	"github.com/retailify/chi/docgen"
+	"github.com/retailify/chi/middleware"
+	"github.com/retailify/chi/render"
 )
 
 var routes = flag.Bool("routes", false, "Generate router documentation")
