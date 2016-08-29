@@ -1,6 +1,6 @@
 package docgen
 
-import "github.com/pressly/chi"
+import "github.com/retailify/chi"
 import "encoding/json"
 
 type Doc struct {
